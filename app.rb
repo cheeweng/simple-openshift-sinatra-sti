@@ -4,5 +4,5 @@ set :bind, '0.0.0.0'
 set :port, 8080
 
 get '/' do
-  "Hello, THis is for testing"
+  "Hello, This is to testing something"
 end
